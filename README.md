@@ -1,0 +1,2 @@
+# NYCTaxiTripDuration
+It is a kaggle challenge  to build a model that predicts the total ride duration of taxi trips in New York City.  Your primary dataset is one released by the NYC Taxi and Limousine Commission, which includes pickup time, geo-coordinates, number of passengers, and several other variables. Created new features from the given features of a dataset.Analysed the missing data. Did some data exploration by using different features in Feature Engineering step.  And used XGBoost model for prediction
